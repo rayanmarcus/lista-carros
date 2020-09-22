@@ -1,0 +1,7 @@
+@import 'variaveis';
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+* {
+  color: $color-text-default;
+  font-family: $font-nunito;
+}
