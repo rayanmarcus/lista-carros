@@ -32,7 +32,7 @@
           </div>
         </div>
 
-        <div class="item-tabela-fipe alosom" ref="modelos">
+        <div class="item-tabela-fipe" ref="modelos">
           <div class="card-body" v-if="modelos.modelos">
             <div class="card-header">
               Modelos
@@ -124,6 +124,8 @@ export default {
     box-shadow: 0px 30px 30px 0 $card-header-shadow;
     .card-body{
       background: $background-color-default;
+      padding-bottom: 0;
+      z-index: 9999;
       .card-title{
         font-size: 1.6em;
         font-weight: 600;
@@ -176,7 +178,7 @@ export default {
       border-top: none;
       background: $background-header-footer;
       font-size: 0.9em;
-      margin-bottom: 0.5em;
+      margin: 0.5em 0;
     }
   }
 }
