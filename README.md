@@ -15,5 +15,5 @@
 #### <span style="padding: 3px 3px; background: green; color: #fff;">👌 Para produção</span>
 - `npm run build` para buildar o projeto.
 
-#### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">😉 Veja funcionando no Netlify</span>
-- 🔗 [Desafio Lista de Carros - Navita]()
+#### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">🔗 Veja funcionando no Netlify</span>
+- [Desafio Lista de Carros - Navita]()
