@@ -1,4 +1,4 @@
-# Desafio Lista Carros - Navita
+# Lista Carros - Consumido API da tabela FIPE
 
 ## 🤖 Instalando o projeto
 
