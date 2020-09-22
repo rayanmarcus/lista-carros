@@ -13,7 +13,6 @@
 - `npm run serve` - para incializar o servidor front-end.
 
 #### <span style="padding: 3px 3px; background: green; color: #fff;">👌 Para produção</span>
-- `npm install` para instalar todas as dependências.
 - `npm run build` para buildar o projeto.
 
 #### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">😉 Teste e veja como funciona</span>
