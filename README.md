@@ -16,4 +16,4 @@
 - `npm run build` para buildar o projeto.
 
 #### <span style="padding: 3px 3px; background: #00aeff; color: #fff;">🔗 Veja funcionando no Netlify</span>
-- [Desafio Lista de Carros - Navita](https://lista-carros-tabela-fipe.netlify.app/)
+- [Desafio Lista de Carros](https://lista-carros-tabela-fipe.netlify.app/)
